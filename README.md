@@ -1,4 +1,6 @@
-# SECB3203_25261
-Programming For Bioinformatics
+GROUP MEMBERS:
 
-This is a repository which served as central hub for the students to showcases their projects. In this courses, students will equipt with essential programming skills in bioinformatics. It introduces computational tools and techniques for solving biological problems. Students will explore Python programming as a core language for bioinformatics applications. Emphasis is placed on applying programming to address practical challenges in biological data analysis and problem-solving. The course is taught through lectures and hands-on labs, with active learning and a strong emphasis on practical problem-solving and applied programming skills. By the end of the course, students will be able to use Python programming to analyze biological data and design computational solutions. They will also develop autonomy, leadership, and responsibility in approaching bioinformatics tasks.
+1. MUHAMMAD AMIRUN IRFAN BIN SAMSUL SHAH  A23CS0121
+2. MUHAMMAD HAFIZ BIN MOHD SHAHARUDDIN  A23CS0130
+3. MUHAMMAD ZAFRIL IHSAN BIN MOHAMAD NASIR  A23CS0304
+
