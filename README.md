@@ -4,3 +4,4 @@ GROUP MEMBERS:
 2. MUHAMMAD HAFIZ BIN MOHD SHAHARUDDIN  A23CS0130
 3. MUHAMMAD ZAFRIL IHSAN BIN MOHAMAD NASIR  A23CS0304
 
+Report link for each progress: https://docs.google.com/document/d/1Dd4enUjYpW8YNh2Gb12Tu6L9-2gw4y1L5PXIOnIa-oQ/edit?usp=sharing
